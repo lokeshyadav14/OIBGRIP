@@ -50,4 +50,4 @@ product. So let’s start the task of sales prediction with machine learning usi
 
 -------------------------------------------------------------------------------------------
 
-*From which I have done Task 1, 3, and 5.*
+*From which I have done Task 1, 3, 4 and 5.*
