@@ -1,14 +1,18 @@
 # OIBGRIP
 It's a repository for my data science related tasks which i have done during oasis infobyte's data science internship.
 
-The description of all the tasks is given below:
+## The description of all the tasks is given below:
+
 -------------------------------------------------------------------------------------------
+
 **Task-1: IRIS FLOWER CLASSIFICATION**
 
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
 measurements. Now assume that you have the measurements of the iris flowers according to
 their species, and here your task is to train a machine learning model that can learn from the
 measurements of the iris species and classify them.
+
+_It's a classification problem to solve it we can use model like Logistic Regression, Decision Tree, Random forest etc._
 
 -------------------------------------------------------------------------------------------
 **Task-2: UNEMPLOYMENT ANALYSIS**
@@ -26,6 +30,8 @@ features of the car, horsepower and the mileage it gives and many more. Car pric
 prediction is one of the major research areas in machine learning. So if you want to learn
 how to train a car price prediction model then this project is for you.
 
+_It is a regression problem, to solve it we can use model like Linear Regression, DecisionTreeRegresson etc._
+
 -------------------------------------------------------------------------------------------
 **Task-4: EMAIL SPAM DETECTION**
 
@@ -37,6 +43,8 @@ In this Project, use Python to build an email spam detector. Then, use machine l
 train the spam detector to recognize and classify emails into spam and non-spam. Let’s get
 started!
 
+_It is a Classification problem to solve it we can use Naive Bayes, Logistic Regression, Decision Tree, Random forest etc. before predicting we have to transform data to do this we have to use nltk library and have to do removing special characters, lowering text, tokenization, removing stopwords at last we have to do stemming after that we can use models._
+
 -------------------------------------------------------------------------------------------
 **Task-5: SALES PREDICTION**
 
@@ -47,6 +55,8 @@ advertise for, or the platform you are advertising on about your product.
 Typically, a product and service-based business always need their Data Scientist to predict
 their future sales with every step they take to manipulate the cost of advertising their
 product. So let’s start the task of sales prediction with machine learning using Python.
+
+_It's a regression problem so we can use any regression model here I used Linear regression and K nearest neighbor._
 
 -------------------------------------------------------------------------------------------
 
