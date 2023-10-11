@@ -2,7 +2,6 @@
 It's a repository for my data science related tasks which i have done during oasis infobyte's data science internship.
 
 ## The description of all the tasks is given below:
-
 -------------------------------------------------------------------------------------------
 
 **Task-1: IRIS FLOWER CLASSIFICATION**
